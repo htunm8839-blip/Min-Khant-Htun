@@ -6,6 +6,9 @@ public class Main {
 //        System.out.println(Hello World);
 
     public static void main(String[] args) {
+        Student student =new Student();
+        student.setName("Min Khant Htun");
+        student.showName();
         System.out.println("Min Khant Htun");
     }
 
