@@ -1,6 +1,6 @@
 package com.jdc;
 
-public class Shape {
+public class Shape  {
 
     protected double height;
     protected double width;
