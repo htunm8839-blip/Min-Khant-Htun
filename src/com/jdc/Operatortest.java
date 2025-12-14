@@ -1,25 +1,51 @@
 package com.jdc;
 
+//public class Operatortest {
+//
+//
+//    public static void main(String[] args) {
+//        int marks = 20;
+//
+//        if (marks >= 80 && marks <= 100) {
+//            System.out.println("Excellent");
+//
+//        } else if (marks >= 50 || marks <= 80) {
+//            System.out.println("Pass");
+//
+//        }else if (marks >= 0 && marks < 50) {
+//            System.out.println("Fail");
+//
+//        }
+//        else {
+//            System.out.println("Good");
+//        }
+//    }
+//   }
+
 public class Operatortest {
 
-
     public static void main(String[] args) {
-        int marks = 20;
+         int first =10;
+         int second =20;
+         int third =30;
 
-        if (marks >= 80 && marks <= 100) {
-            System.out.println("Excellent");
+         switch(0){
+              case 10:
+                  System.out.println(first);
+                  break;
 
-        } else if (marks >= 50 || marks <= 80) {
-            System.out.println("Pass");
+              case 20:
+                  System.out.println(second);
+                  break;
 
-        }else if (marks >= 0 && marks < 50) {
-            System.out.println("Fail");
+              case 30:
+                  System.out.println(third);
+                  break;
 
-        }
-        else {
-            System.out.println("Good");
-        }
+                  default:
+                      System.out.println("nothing");
+         }
     }
-   }
+}
 
 
