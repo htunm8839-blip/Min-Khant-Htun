@@ -2,7 +2,7 @@ public class switches {
 
         public static void main(String[] args) {
             int day = 7;
-            switch () {
+            switch (0) {
 
                 case 1:
                     System.out.println("Money");
