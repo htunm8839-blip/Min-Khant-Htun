@@ -3,7 +3,7 @@ package com.jdc;
 //public class Operatortest {
 //
 //
-//    public static void main(String[] args) {
+//    public static void mammal.dog.nonmammal.Luckyfish.main(String[] args) {
 //        int marks = 20;
 //
 //        if (marks >= 80 && marks <= 100) {
