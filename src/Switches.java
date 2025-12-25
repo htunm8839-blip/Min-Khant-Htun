@@ -1,4 +1,4 @@
-public class switches {
+public class Switches {
 
         public static void main(String[] args) {
             int day = 7;
